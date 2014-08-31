@@ -1,7 +1,7 @@
 Simple-Task
 ===========
 
-Mac OS 10 App in Swift.
+Mac OS 10 App in Swift. NotificationCenter used.
 
 My first app in Xcode withe the language Swift. 
 
